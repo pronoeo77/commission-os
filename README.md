@@ -1,75 +1,101 @@
-# React + TypeScript + Vite
+# CommissionOS | Sales Compensation Analytics Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Interactive Commission Analytics | React • TypeScript • Vite • Recharts • Synthetic Data**
 
-Currently, two official plugins are available:
+[**Launch Live Dashboard**](https://pronoeo77.github.io/commission-os/) | [**View Source Code**](https://github.com/pronoeo77/commission-os)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Dashboard Preview
 
-## React Compiler
+![CommissionOS Compensation Simulator](commission-os-simulator.png)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Project Overview
 
-## Expanding the ESLint configuration
+CommissionOS is an interactive sales compensation analytics application combining commission reporting, revenue integrity analysis, compensation scenario modeling, and transparent calculation logic in one dashboard.
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+Built with React, TypeScript, and Vite, the application demonstrates how financial analysis and software development can work together to automate complex compensation calculations and present actionable business insights.
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+## Dashboard Features
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+### 1. Executive Overview
+- Commission expense KPIs and financial summaries
+- Account Executive, Account Manager, and Management commission breakdowns
+- Interactive charts and performance metrics
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+### 2. Commission Explorer
+- Individual employee commission reporting
+- Revenue credit, attainment, and payout analysis
+- Role-based comparisons and filtering
 
+### 3. Revenue Integrity
+- Revenue attribution and data-quality exception analysis
+- Financial exposure and exception severity
+- Recommended reconciliation treatments
+
+### 4. Compensation Simulator
+- Interactive SMB Account Executive accelerator modeling
+- Adjustable Tier 1 and Tier 2 commission multipliers
+- Real-time commission expense calculations
+- Employee-level impact analysis
+
+### 5. Commission Logic
+- Transparent commission calculation methodology
+- Accelerator thresholds and marginal commission rates
+- Ramp guarantees, retention incentives, and management rollups
+
+## Technology Stack
+
+| Technology | Application |
+|---|---|
+| React | Interactive dashboard components |
+| TypeScript | Typed application logic |
+| Vite | Development and production builds |
+| Recharts | Financial data visualization |
+| JavaScript | Synthetic data generation |
+| GitHub Actions | Automated deployment |
+| GitHub Pages | Live application hosting |
+
+## Analytical Methodology
+
+CommissionOS models compensation for 80 fictional employees across Account Executive, Account Manager, and Management roles.
+
+The application demonstrates:
+
+- Tiered and marginal commission calculations
+- Ramp guarantees and quota attainment
+- Account Manager retention incentives
+- Hierarchical management revenue rollups
+- Compensation scenario analysis
+- Commission reconciliation and validation
+
+## Synthetic Data and Privacy
+
+All published financial figures and employee identifiers are synthetic. Employee names are fictional characters.
+
+The project uses a deterministic synthetic-data generator to demonstrate compensation analytics without publishing original assessment workbooks or source records.
+
+The compensation calculations are presented for educational and portfolio demonstration purposes, not production payroll processing.
+
+## Run Locally
+
+```bash
+npm install
+npm run dev
 ```
 
-You can also install [eslint-plugin-react-x](https://npmx.dev/package/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://npmx.dev/package/eslint-plugin-react-dom) for React-specific lint rules:
+To build the application:
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-
+```bash
+npm run build
 ```
+
+## Live Application
+
+**[Open CommissionOS Interactive Dashboard](https://pronoeo77.github.io/commission-os/)**
+
+## Author
+
+**Nicolas Cuervo**
+
+Financial Analytics | Python Automation | React | TypeScript | Business Intelligence
+
+[GitHub Profile](https://github.com/pronoeo77)
