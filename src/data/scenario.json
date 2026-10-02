@@ -1,0 +1,344 @@
+[
+  {
+    "name": "Huckleberry Finn",
+    "role": "ENT Account Executive",
+    "isRamping": false,
+    "creditedRevenue": 67122.5,
+    "actualCommission": 6854.7,
+    "proposedCommission": 6854.7,
+    "scenarioDelta": 0
+  },
+  {
+    "name": "Holden Caulfield",
+    "role": "ENT Account Executive",
+    "isRamping": false,
+    "creditedRevenue": 97792.54,
+    "actualCommission": 10713.03,
+    "proposedCommission": 10713.03,
+    "scenarioDelta": 0
+  },
+  {
+    "name": "Elizabeth Bennet",
+    "role": "ENT Account Executive",
+    "isRamping": false,
+    "creditedRevenue": 44139.22,
+    "actualCommission": 4413.92,
+    "proposedCommission": 4413.92,
+    "scenarioDelta": 0
+  },
+  {
+    "name": "Scout Finch",
+    "role": "ENT Account Executive",
+    "isRamping": true,
+    "creditedRevenue": 57845.95,
+    "actualCommission": 5784.6,
+    "proposedCommission": 5784.6,
+    "scenarioDelta": 0
+  },
+  {
+    "name": "Yoda",
+    "role": "SMB Account Executive",
+    "isRamping": false,
+    "creditedRevenue": 43622.13,
+    "actualCommission": 7473.4,
+    "proposedCommission": 7749.31,
+    "scenarioDelta": 275.91
+  },
+  {
+    "name": "Jon Snow",
+    "role": "SMB Account Executive",
+    "isRamping": false,
+    "creditedRevenue": 27181.58,
+    "actualCommission": 4349.05,
+    "proposedCommission": 4349.05,
+    "scenarioDelta": 0
+  },
+  {
+    "name": "Hermione Granger",
+    "role": "SMB Account Executive",
+    "isRamping": false,
+    "creditedRevenue": 30895.4,
+    "actualCommission": 4971.92,
+    "proposedCommission": 4986.24,
+    "scenarioDelta": 14.32
+  },
+  {
+    "name": "Clark Kent",
+    "role": "SMB Account Executive",
+    "isRamping": false,
+    "creditedRevenue": 23998.5,
+    "actualCommission": 3839.76,
+    "proposedCommission": 3839.76,
+    "scenarioDelta": 0
+  },
+  {
+    "name": "Sherlock Holmes",
+    "role": "SMB Account Executive",
+    "isRamping": false,
+    "creditedRevenue": 47829.39,
+    "actualCommission": 8348.51,
+    "proposedCommission": 8759.05,
+    "scenarioDelta": 410.54
+  },
+  {
+    "name": "Luke Skywalker",
+    "role": "SMB Account Executive",
+    "isRamping": false,
+    "creditedRevenue": 63636.49,
+    "actualCommission": 11636.39,
+    "proposedCommission": 12552.76,
+    "scenarioDelta": 916.37
+  },
+  {
+    "name": "Han Solo",
+    "role": "SMB Account Executive",
+    "isRamping": false,
+    "creditedRevenue": 28566.34,
+    "actualCommission": 4570.61,
+    "proposedCommission": 4570.61,
+    "scenarioDelta": 0
+  },
+  {
+    "name": "Captain Hook",
+    "role": "SMB Account Executive",
+    "isRamping": false,
+    "creditedRevenue": 39468.52,
+    "actualCommission": 6617.96,
+    "proposedCommission": 6769.45,
+    "scenarioDelta": 151.49
+  },
+  {
+    "name": "Atticus Finch",
+    "role": "ENT Account Executive",
+    "isRamping": false,
+    "creditedRevenue": 28663.15,
+    "actualCommission": 2866.32,
+    "proposedCommission": 2866.32,
+    "scenarioDelta": 0
+  },
+  {
+    "name": "Jane Eyre",
+    "role": "ENT Account Executive",
+    "isRamping": false,
+    "creditedRevenue": 51628.17,
+    "actualCommission": 5162.82,
+    "proposedCommission": 5162.82,
+    "scenarioDelta": 0
+  },
+  {
+    "name": "Jay Gatsby",
+    "role": "ENT Account Executive",
+    "isRamping": true,
+    "creditedRevenue": 39670.29,
+    "actualCommission": 3967.03,
+    "proposedCommission": 3967.03,
+    "scenarioDelta": 0
+  },
+  {
+    "name": "Gimli",
+    "role": "SMB Account Executive",
+    "isRamping": true,
+    "creditedRevenue": 51175.87,
+    "actualCommission": 8188.14,
+    "proposedCommission": 8188.14,
+    "scenarioDelta": 0
+  },
+  {
+    "name": "Tony Stark",
+    "role": "SMB Account Executive",
+    "isRamping": false,
+    "creditedRevenue": 42808.89,
+    "actualCommission": 7304.25,
+    "proposedCommission": 7554.13,
+    "scenarioDelta": 249.88
+  },
+  {
+    "name": "Peter Pan",
+    "role": "SMB Account Executive",
+    "isRamping": false,
+    "creditedRevenue": 54005.96,
+    "actualCommission": 9633.24,
+    "proposedCommission": 10241.43,
+    "scenarioDelta": 608.19
+  },
+  {
+    "name": "Diana Prince",
+    "role": "SMB Account Executive",
+    "isRamping": false,
+    "creditedRevenue": 33230.53,
+    "actualCommission": 5420.26,
+    "proposedCommission": 5471.95,
+    "scenarioDelta": 51.69
+  },
+  {
+    "name": "Gandalf",
+    "role": "SMB Account Executive",
+    "isRamping": false,
+    "creditedRevenue": 55462.13,
+    "actualCommission": 9936.12,
+    "proposedCommission": 10590.91,
+    "scenarioDelta": 654.79
+  },
+  {
+    "name": "Harry Potter",
+    "role": "SMB Account Executive",
+    "isRamping": false,
+    "creditedRevenue": 32083.34,
+    "actualCommission": 5200,
+    "proposedCommission": 5233.33,
+    "scenarioDelta": 33.33
+  },
+  {
+    "name": "Edmund Pevensie",
+    "role": "ENT Account Executive",
+    "isRamping": false,
+    "creditedRevenue": 47667.67,
+    "actualCommission": 4766.77,
+    "proposedCommission": 4766.77,
+    "scenarioDelta": 0
+  },
+  {
+    "name": "Winnie the Pooh",
+    "role": "ENT Account Executive",
+    "isRamping": false,
+    "creditedRevenue": 30468.76,
+    "actualCommission": 3046.88,
+    "proposedCommission": 3046.88,
+    "scenarioDelta": 0
+  },
+  {
+    "name": "Legolas",
+    "role": "SMB Account Executive",
+    "isRamping": false,
+    "creditedRevenue": 28376.61,
+    "actualCommission": 4540.26,
+    "proposedCommission": 4540.26,
+    "scenarioDelta": 0
+  },
+  {
+    "name": "Daenerys Targaryen",
+    "role": "SMB Account Executive",
+    "isRamping": false,
+    "creditedRevenue": 40673.69,
+    "actualCommission": 6860.13,
+    "proposedCommission": 7041.69,
+    "scenarioDelta": 181.56
+  },
+  {
+    "name": "Samwise Gamgee",
+    "role": "SMB Account Executive",
+    "isRamping": false,
+    "creditedRevenue": 27647.78,
+    "actualCommission": 4423.64,
+    "proposedCommission": 4423.64,
+    "scenarioDelta": 0
+  },
+  {
+    "name": "Peter Parker",
+    "role": "SMB Account Executive",
+    "isRamping": false,
+    "creditedRevenue": 56189.97,
+    "actualCommission": 10087.51,
+    "proposedCommission": 10765.59,
+    "scenarioDelta": 678.08
+  },
+  {
+    "name": "Frodo Baggins",
+    "role": "SMB Account Executive",
+    "isRamping": true,
+    "creditedRevenue": 54808.33,
+    "actualCommission": 8769.33,
+    "proposedCommission": 8769.33,
+    "scenarioDelta": 0
+  },
+  {
+    "name": "James Bond",
+    "role": "SMB Account Executive",
+    "isRamping": false,
+    "creditedRevenue": 43667.94,
+    "actualCommission": 7482.93,
+    "proposedCommission": 7760.31,
+    "scenarioDelta": 277.38
+  },
+  {
+    "name": "Bilbo Baggins",
+    "role": "SMB Account Executive",
+    "isRamping": false,
+    "creditedRevenue": 27050.14,
+    "actualCommission": 4328.02,
+    "proposedCommission": 4328.02,
+    "scenarioDelta": 0
+  },
+  {
+    "name": "Indiana Jones",
+    "role": "SMB Account Executive",
+    "isRamping": false,
+    "creditedRevenue": 21727.56,
+    "actualCommission": 3476.41,
+    "proposedCommission": 3476.41,
+    "scenarioDelta": 0
+  },
+  {
+    "name": "Walter White",
+    "role": "SMB Account Executive",
+    "isRamping": false,
+    "creditedRevenue": 50137.08,
+    "actualCommission": 8828.51,
+    "proposedCommission": 9312.9,
+    "scenarioDelta": 484.39
+  },
+  {
+    "name": "Tom Sawyer",
+    "role": "ENT Account Executive",
+    "isRamping": true,
+    "creditedRevenue": 38863.91,
+    "actualCommission": 3886.39,
+    "proposedCommission": 3886.39,
+    "scenarioDelta": 0
+  },
+  {
+    "name": "Albus Dumbledore",
+    "role": "SMB Account Executive",
+    "isRamping": false,
+    "creditedRevenue": 26604.4,
+    "actualCommission": 4256.7,
+    "proposedCommission": 4256.7,
+    "scenarioDelta": 0
+  },
+  {
+    "name": "Princess Leia",
+    "role": "SMB Account Executive",
+    "isRamping": false,
+    "creditedRevenue": 10139.82,
+    "actualCommission": 1622.37,
+    "proposedCommission": 1622.37,
+    "scenarioDelta": 0
+  },
+  {
+    "name": "Katniss Everdeen",
+    "role": "SMB Account Executive",
+    "isRamping": false,
+    "creditedRevenue": 49915.62,
+    "actualCommission": 8782.45,
+    "proposedCommission": 9259.75,
+    "scenarioDelta": 477.3
+  },
+  {
+    "name": "Ron Weasley",
+    "role": "SMB Account Executive",
+    "isRamping": true,
+    "creditedRevenue": 36820.45,
+    "actualCommission": 5891.27,
+    "proposedCommission": 5891.27,
+    "scenarioDelta": 0
+  },
+  {
+    "name": "Severus Snape",
+    "role": "SMB Account Executive",
+    "isRamping": false,
+    "creditedRevenue": 56295.87,
+    "actualCommission": 10109.54,
+    "proposedCommission": 10791.01,
+    "scenarioDelta": 681.47
+  }
+]

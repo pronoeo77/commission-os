@@ -1,0 +1,57 @@
+[
+  {
+    "rank": 1,
+    "severity": "Critical",
+    "exception_type": "Later Closed Won opportunities would restart existing accounts",
+    "dataset": "Synthetic CRM / Synthetic Billing",
+    "records_touched": 18,
+    "credit_or_revenue_affected": 92500,
+    "payout_impact_usd": 15140,
+    "reps_affected": 12,
+    "treatment": "Use the earliest Closed Won opportunity to establish account go-live. Later expansions or renewals do not restart the 90-day new-customer window."
+  },
+  {
+    "rank": 2,
+    "severity": "High",
+    "exception_type": "AE credit recognized outside employment dates",
+    "dataset": "Synthetic HR / Synthetic Billing",
+    "records_touched": 41,
+    "credit_or_revenue_affected": 17450,
+    "payout_impact_usd": 1280,
+    "reps_affected": 3,
+    "treatment": "Pay individual AE credit only when the AE was employed on the recognition date. Preserve post-termination manager carry where the plan explicitly requires it."
+  },
+  {
+    "rank": 3,
+    "severity": "High",
+    "exception_type": "Closed Won account has no AE owner",
+    "dataset": "Synthetic CRM",
+    "records_touched": 3,
+    "credit_or_revenue_affected": 2150,
+    "payout_impact_usd": 0,
+    "reps_affected": 0,
+    "treatment": "Do not reassign a missing opportunity owner. Keep the credit unassigned and flag it for review."
+  },
+  {
+    "rank": 4,
+    "severity": "High",
+    "exception_type": "Stale closed_won_date on non-Closed-Won opportunity",
+    "dataset": "Synthetic CRM",
+    "records_touched": 8,
+    "credit_or_revenue_affected": 0,
+    "payout_impact_usd": 0,
+    "reps_affected": 6,
+    "treatment": "Ignore closed_won_date where opportunity_stage is not Closed Won. Opportunity stage governs."
+  },
+  {
+    "rank": 5,
+    "severity": "Low",
+    "exception_type": "Message extract row-count discrepancy",
+    "dataset": "Synthetic Messages",
+    "records_touched": 5,
+    "credit_or_revenue_affected": 0,
+    "payout_impact_usd": 0,
+    "reps_affected": 0,
+    "treatment": "Document the mismatch between the message extract and its accompanying summary; retain the raw extract for review."
+  }
+]

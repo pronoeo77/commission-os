@@ -1,0 +1,322 @@
+[
+  {
+    "employee": "Huckleberry Finn",
+    "manager": "Captain Ahab"
+  },
+  {
+    "employee": "Holden Caulfield",
+    "manager": "Captain Ahab"
+  },
+  {
+    "employee": "Elizabeth Bennet",
+    "manager": "Mr. Darcy"
+  },
+  {
+    "employee": "Scout Finch",
+    "manager": "Mr. Darcy"
+  },
+  {
+    "employee": "Yoda",
+    "manager": "Aragorn"
+  },
+  {
+    "employee": "Jon Snow",
+    "manager": "Bruce Wayne"
+  },
+  {
+    "employee": "Hermione Granger",
+    "manager": "Darth Vader"
+  },
+  {
+    "employee": "Clark Kent",
+    "manager": "Aragorn"
+  },
+  {
+    "employee": "Sherlock Holmes",
+    "manager": "Bruce Wayne"
+  },
+  {
+    "employee": "Luke Skywalker",
+    "manager": "Darth Vader"
+  },
+  {
+    "employee": "Han Solo",
+    "manager": "Aragorn"
+  },
+  {
+    "employee": "Captain Hook",
+    "manager": "Darth Vader"
+  },
+  {
+    "employee": "Atticus Finch",
+    "manager": "Mr. Darcy"
+  },
+  {
+    "employee": "Jane Eyre",
+    "manager": "Captain Ahab"
+  },
+  {
+    "employee": "Jay Gatsby",
+    "manager": "Mr. Darcy"
+  },
+  {
+    "employee": "Gimli",
+    "manager": "Lord Voldemort"
+  },
+  {
+    "employee": "Tony Stark",
+    "manager": "Bruce Wayne"
+  },
+  {
+    "employee": "Peter Pan",
+    "manager": "Aragorn"
+  },
+  {
+    "employee": "Diana Prince",
+    "manager": "Aragorn"
+  },
+  {
+    "employee": "Gandalf",
+    "manager": "Darth Vader"
+  },
+  {
+    "employee": "Harry Potter",
+    "manager": "Darth Vader"
+  },
+  {
+    "employee": "Edmund Pevensie",
+    "manager": "Captain Ahab"
+  },
+  {
+    "employee": "Winnie the Pooh",
+    "manager": "Mr. Darcy"
+  },
+  {
+    "employee": "Legolas",
+    "manager": "Lord Voldemort"
+  },
+  {
+    "employee": "Daenerys Targaryen",
+    "manager": "Bruce Wayne"
+  },
+  {
+    "employee": "Samwise Gamgee",
+    "manager": "Lord Voldemort"
+  },
+  {
+    "employee": "Peter Parker",
+    "manager": "Aragorn"
+  },
+  {
+    "employee": "Frodo Baggins",
+    "manager": "Darth Vader"
+  },
+  {
+    "employee": "James Bond",
+    "manager": "Bruce Wayne"
+  },
+  {
+    "employee": "Bilbo Baggins",
+    "manager": "Bruce Wayne"
+  },
+  {
+    "employee": "Indiana Jones",
+    "manager": "Aragorn"
+  },
+  {
+    "employee": "Walter White",
+    "manager": "Bruce Wayne"
+  },
+  {
+    "employee": "Tom Sawyer",
+    "manager": "Captain Ahab"
+  },
+  {
+    "employee": "Albus Dumbledore",
+    "manager": "Lord Voldemort"
+  },
+  {
+    "employee": "Princess Leia",
+    "manager": "Aragorn"
+  },
+  {
+    "employee": "Katniss Everdeen",
+    "manager": "Bruce Wayne"
+  },
+  {
+    "employee": "Ron Weasley",
+    "manager": "Lord Voldemort"
+  },
+  {
+    "employee": "Severus Snape",
+    "manager": "Lord Voldemort"
+  },
+  {
+    "employee": "Elsa",
+    "manager": "Marty McFly"
+  },
+  {
+    "employee": "Olaf",
+    "manager": "Trinity"
+  },
+  {
+    "employee": "Morpheus",
+    "manager": "Trinity"
+  },
+  {
+    "employee": "Edward Cullen",
+    "manager": "Mowgli"
+  },
+  {
+    "employee": "Aslan",
+    "manager": "Mowgli"
+  },
+  {
+    "employee": "Simba",
+    "manager": "Buzz Lightyear"
+  },
+  {
+    "employee": "Dorothy Gale",
+    "manager": "Buzz Lightyear"
+  },
+  {
+    "employee": "Lucy Pevensie",
+    "manager": "Mowgli"
+  },
+  {
+    "employee": "Rocky Balboa",
+    "manager": "John McClane"
+  },
+  {
+    "employee": "Ellen Ripley",
+    "manager": "Trinity"
+  },
+  {
+    "employee": "Baloo",
+    "manager": "Buzz Lightyear"
+  },
+  {
+    "employee": "Mufasa",
+    "manager": "Buzz Lightyear"
+  },
+  {
+    "employee": "Doc Brown",
+    "manager": "John McClane"
+  },
+  {
+    "employee": "Dr. Watson",
+    "manager": "Matilda Wormwood"
+  },
+  {
+    "employee": "Neo",
+    "manager": "Trinity"
+  },
+  {
+    "employee": "Forrest Gump",
+    "manager": "John McClane"
+  },
+  {
+    "employee": "Donkey",
+    "manager": "Marty McFly"
+  },
+  {
+    "employee": "Anna",
+    "manager": "Marty McFly"
+  },
+  {
+    "employee": "Alice",
+    "manager": "Matilda Wormwood"
+  },
+  {
+    "employee": "Bella Swan",
+    "manager": "Mowgli"
+  },
+  {
+    "employee": "Woody",
+    "manager": "Buzz Lightyear"
+  },
+  {
+    "employee": "Percy Jackson",
+    "manager": "Mowgli"
+  },
+  {
+    "employee": "The Mad Hatter",
+    "manager": "Matilda Wormwood"
+  },
+  {
+    "employee": "Oliver Twist",
+    "manager": "Matilda Wormwood"
+  },
+  {
+    "employee": "Shrek",
+    "manager": "Marty McFly"
+  },
+  {
+    "employee": "Willy Wonka",
+    "manager": "Matilda Wormwood"
+  },
+  {
+    "employee": "Hannibal Lecter",
+    "manager": null
+  },
+  {
+    "employee": "Ebenezer Scrooge",
+    "manager": "Hannibal Lecter"
+  },
+  {
+    "employee": "Captain Ahab",
+    "manager": "Ebenezer Scrooge"
+  },
+  {
+    "employee": "Mr. Darcy",
+    "manager": "Ebenezer Scrooge"
+  },
+  {
+    "employee": "Jack Sparrow",
+    "manager": "Hannibal Lecter"
+  },
+  {
+    "employee": "Gollum",
+    "manager": "Hannibal Lecter"
+  },
+  {
+    "employee": "Aragorn",
+    "manager": "Ebenezer Scrooge"
+  },
+  {
+    "employee": "Bruce Wayne",
+    "manager": "Ebenezer Scrooge"
+  },
+  {
+    "employee": "Trinity",
+    "manager": "Jack Sparrow"
+  },
+  {
+    "employee": "Darth Vader",
+    "manager": "Ebenezer Scrooge"
+  },
+  {
+    "employee": "Marty McFly",
+    "manager": "Jack Sparrow"
+  },
+  {
+    "employee": "Buzz Lightyear",
+    "manager": "Gollum"
+  },
+  {
+    "employee": "Matilda Wormwood",
+    "manager": "Gollum"
+  },
+  {
+    "employee": "Mowgli",
+    "manager": "Gollum"
+  },
+  {
+    "employee": "John McClane",
+    "manager": "Jack Sparrow"
+  },
+  {
+    "employee": "Lord Voldemort",
+    "manager": "Ebenezer Scrooge"
+  }
+]
